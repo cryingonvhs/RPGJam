@@ -1,5 +1,6 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Bedroom Loop 0","order":1,"parentId":0,"scrollX":469.6666666666667,"scrollY":264.3333333333333},
-{"id":2,"expanded":false,"name":"Apartment Loop 0","order":2,"parentId":1,"scrollX":341.57575757575756,"scrollY":192.24242424242425,"quick":false}
+{"id":2,"expanded":true,"name":"Apartment Loop 0","order":2,"parentId":1,"scrollX":648.8,"scrollY":366,"quick":false},
+{"id":3,"expanded":false,"name":"Roommate_Room Loop 0","order":3,"parentId":2,"scrollX":0,"scrollY":0,"quick":false}
 ]
