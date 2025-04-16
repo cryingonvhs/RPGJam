@@ -1,12 +1,12 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Bedroom Loop 0","order":2,"parentId":0,"scrollX":417.48148148148147,"scrollY":230.22222222222223},
-{"id":2,"expanded":true,"name":"Apartment Loop 0","order":3,"parentId":1,"scrollX":464.8888888888889,"scrollY":278.22222222222223,"quick":false},
-{"id":3,"expanded":false,"name":"Roommate_Room Loop 0","order":4,"parentId":2,"scrollX":469.6666666666667,"scrollY":264.3333333333333,"quick":false},
+{"id":2,"expanded":true,"name":"Apartment Loop 0","order":3,"parentId":1,"scrollX":422.22222222222223,"scrollY":266.3703703703704,"quick":false},
+{"id":3,"expanded":false,"name":"Roommate_Room Loop 0","order":4,"parentId":2,"scrollX":417.48148148148147,"scrollY":230.22222222222223,"quick":false},
 {"id":4,"expanded":false,"name":"Intro Scene","order":1,"parentId":0,"scrollX":417.48148148148147,"scrollY":230.22222222222223,"quick":false},
-{"id":5,"expanded":true,"name":"Bedroom Loop 1","order":6,"parentId":0,"scrollX":469.6666666666667,"scrollY":264.3333333333333},
-{"id":6,"expanded":true,"name":"Apartment Loop 1","order":7,"parentId":5,"scrollX":469.6666666666667,"scrollY":333,"quick":false},
-{"id":7,"expanded":false,"name":"Roommate_Room Loop 1","order":8,"parentId":6,"scrollX":469.6666666666667,"scrollY":264.3333333333333,"quick":false},
+{"id":5,"expanded":true,"name":"Bedroom Loop 1","order":6,"parentId":0,"scrollX":417.48148148148147,"scrollY":230.22222222222223},
+{"id":6,"expanded":true,"name":"Apartment Loop 1","order":7,"parentId":5,"scrollX":469.6296296296296,"scrollY":266.3703703703704,"quick":false},
+{"id":7,"expanded":false,"name":"Roommate_Room Loop 1","order":8,"parentId":6,"scrollX":417.48148148148147,"scrollY":230.22222222222223,"quick":false},
 {"id":8,"expanded":false,"name":"Computer Loop 1","order":9,"parentId":5,"scrollX":469.6666666666667,"scrollY":264.3333333333333,"quick":false},
 {"id":9,"expanded":false,"name":"Computer Loop 0","order":5,"parentId":1,"scrollX":464.8888888888889,"scrollY":234.96296296296296,"quick":false}
 ]
