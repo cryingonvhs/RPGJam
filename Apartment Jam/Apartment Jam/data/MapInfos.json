@@ -12,6 +12,6 @@ null,
 {"id":10,"expanded":true,"name":"Bedroom Loop 2","order":9,"parentId":0,"scrollX":417.48148148148147,"scrollY":230.22222222222223},
 {"id":11,"expanded":true,"name":"Apartment Loop 2","order":10,"parentId":10,"scrollX":422.22222222222223,"scrollY":296.5925925925926,"quick":false},
 {"id":12,"expanded":true,"name":"Bedroom Loop 3","order":12,"parentId":0,"scrollX":417.48148148148147,"scrollY":230.22222222222223},
-{"id":13,"expanded":true,"name":"Apartment Loop 3","order":13,"parentId":12,"scrollX":417.48148148148147,"scrollY":232.59259259259258,"quick":false},
+{"id":13,"expanded":true,"name":"Apartment Loop 3","order":13,"parentId":12,"scrollX":417.48148148148147,"scrollY":362.962962962963,"quick":false},
 {"id":14,"expanded":false,"name":"Computer Loop 3","order":14,"parentId":12,"scrollX":464.8888888888889,"scrollY":234.96296296296296,"quick":false}
 ]
