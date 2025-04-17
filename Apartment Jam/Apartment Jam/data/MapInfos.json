@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Bedroom Loop 0","order":2,"parentId":0,"scrollX":469.6666666666667,"scrollY":264.3333333333333},
-{"id":2,"expanded":true,"name":"Apartment Loop 0","order":3,"parentId":1,"scrollX":469.6666666666667,"scrollY":259,"quick":false},
+{"id":1,"expanded":true,"name":"Bedroom Loop 0","order":2,"parentId":0,"scrollX":563.6,"scrollY":317.2},
+{"id":2,"expanded":true,"name":"Apartment Loop 0","order":3,"parentId":1,"scrollX":469.6666666666667,"scrollY":264.3333333333333,"quick":false},
 {"id":3,"expanded":false,"name":"Roommate_Room Loop 0","order":4,"parentId":2,"scrollX":417.48148148148147,"scrollY":230.22222222222223,"quick":false},
 {"id":4,"expanded":false,"name":"Intro Scene","order":1,"parentId":0,"scrollX":469.6666666666667,"scrollY":264.3333333333333,"quick":false},
 {"id":5,"expanded":true,"name":"Bedroom Loop 1","order":6,"parentId":0,"scrollX":469.6666666666667,"scrollY":264.3333333333333},
@@ -17,7 +17,9 @@ null,
 {"id":15,"expanded":true,"name":"Bedroom Loop 4","order":15,"parentId":0,"scrollX":563.6,"scrollY":317.2},
 {"id":16,"expanded":true,"name":"Apartment Loop 4","order":16,"parentId":15,"scrollX":473.77777777777777,"scrollY":260.44444444444446,"quick":false},
 {"id":17,"expanded":true,"name":"Bedroom Loop 6","order":19,"parentId":0,"scrollX":469.6666666666667,"scrollY":264.3333333333333},
-{"id":18,"expanded":true,"name":"Bedroom Loop 5","order":17,"parentId":0,"scrollX":417.48148148148147,"scrollY":230.22222222222223},
-{"id":19,"expanded":true,"name":"Apartment Loop 5","order":18,"parentId":18,"scrollX":563.6,"scrollY":323.6,"quick":false},
-{"id":20,"expanded":true,"name":"Apartment Loop 6","order":20,"parentId":17,"scrollX":570,"scrollY":354.8,"quick":false}
+{"id":18,"expanded":true,"name":"Bedroom Loop 5","order":17,"parentId":0,"scrollX":469.6666666666667,"scrollY":264.3333333333333},
+{"id":19,"expanded":true,"name":"Apartment Loop 5","order":18,"parentId":18,"scrollX":469.6666666666667,"scrollY":323.6666666666667,"quick":false},
+{"id":20,"expanded":true,"name":"Apartment Loop 6","order":20,"parentId":17,"scrollX":469.6666666666667,"scrollY":317.6666666666667,"quick":false},
+{"id":21,"expanded":true,"name":"Bedroom Loop 7","order":21,"parentId":0,"scrollX":469.6666666666667,"scrollY":264.3333333333333},
+{"id":22,"expanded":true,"name":"Apartment Loop 7","order":22,"parentId":21,"scrollX":469.6666666666667,"scrollY":301.6666666666667,"quick":false}
 ]
