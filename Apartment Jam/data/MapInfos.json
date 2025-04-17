@@ -21,5 +21,5 @@ null,
 {"id":19,"expanded":true,"name":"Apartment Loop 5","order":18,"parentId":18,"scrollX":469.6666666666667,"scrollY":323.6666666666667,"quick":false},
 {"id":20,"expanded":true,"name":"Apartment Loop 6","order":20,"parentId":17,"scrollX":469.6666666666667,"scrollY":317.6666666666667,"quick":false},
 {"id":21,"expanded":true,"name":"Bedroom Loop 7","order":21,"parentId":0,"scrollX":469.6666666666667,"scrollY":264.3333333333333},
-{"id":22,"expanded":true,"name":"Apartment Loop 7","order":22,"parentId":21,"scrollX":469.6666666666667,"scrollY":301.6666666666667,"quick":false}
+{"id":22,"expanded":true,"name":"Apartment Loop 7","order":22,"parentId":21,"scrollX":475,"scrollY":301.6666666666667,"quick":false}
 ]
