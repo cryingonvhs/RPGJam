@@ -44,5 +44,5 @@ null,
 {"id":42,"expanded":true,"name":"Moving Puzzle Complete","order":44,"parentId":32,"scrollX":512.3636363636364,"scrollY":288.3636363636364,"quick":false},
 {"id":43,"expanded":true,"name":"Mirror Apartment","order":31,"parentId":31,"scrollX":518.1818181818181,"scrollY":361.09090909090907,"quick":false},
 {"id":44,"expanded":true,"name":"Mirror Bedroom","order":32,"parentId":43,"scrollX":512.3636363636364,"scrollY":288.3636363636364},
-{"id":45,"expanded":true,"name":"Ending sequence","order":45,"parentId":0,"scrollX":518.1818181818181,"scrollY":361.09090909090907,"quick":false}
+{"id":45,"expanded":true,"name":"Ending sequence","order":45,"parentId":0,"scrollX":518.1818181818181,"scrollY":355.27272727272725,"quick":false}
 ]
