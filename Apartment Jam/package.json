@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
-        "title": "Apartment Jam",
+        "title": "Apartment 808",
         "width": 1152,
         "height": 648,
         "position": "center",
